@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-garg&show_icons=true&theme=solarized-light)](https://github.com/vipul-garg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-garg&layout=compact)](https://github.com/vipul-garg/github-readme-stats)
