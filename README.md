@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! 👋
+I am Vipul. I deliver Fintech solutions to Africa & Middle-East. My waves of curiority have led my to dive into Application Security, Web and API Development. I am currently gaining knowledge in Bug Bounty space with focus on APIs, Auth and Android Security. In the quest to understand the workings of this space I am diving further into Python, JS, React, Containers, Kotlin and list gets longer. 
+
+Time, hence, is of essence; Collaboration is the need of the hour. With the recent break-throughs in AI and its impact on individual productivity, its excitng times ahead!
+
+For any common interests, collaborations and conversations, I can be reached at vipulgarg79@gmail.com
 
 <!--
 **vipul-garg/vipul-garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
